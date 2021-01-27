@@ -16,15 +16,15 @@
 
 @font-face {
   font-family: "Ruhl";
-  src: url("/FrankRuhlLibre-Regular.ttf");
+  src: url("fonts/FrankRuhlLibre-Regular.ttf");
 }
 @font-face {
   font-family: "Ruhl Medium";
-  src: url("/FrankRuhlLibre-Medium.ttf");
+  src: url("fonts/FrankRuhlLibre-Medium.ttf");
 }
 @font-face {
   font-family: "Vibes";
-  src: url("/GreatVibes-Regular.ttf");
+  src: url("fonts/GreatVibes-Regular.ttf");
 }
 
 html {
